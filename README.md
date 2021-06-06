@@ -6,7 +6,7 @@ This is a project based on a tutorial from [Traversy Media](https://github.com/b
 
 HTML CSS NODEJS SOCKET.IO
 
-[![Run on Repl.it](https://repl.it/badge/github/amanjaswal/chat-chord)](https://repl.it/github/amanjaswal/chat-chord)
+[![Run on Repl.it](https://repl.it/badge/github/@amanjaswal/chat-chord)](https://repl.it/github/@amanjaswal/chat-chord)
 
 # Usage
 
